@@ -1,6 +1,6 @@
 # Innovation in AI-powered investment banking platform
 
-[Alt Text](C:\Users\angie\OneDrive\PENIEL AI\iStock-1132986308.jpg)
+![Alt Text](C:\Users\angie\OneDrive\PENIEL AI\iStock-1132986308.jpg)
 
 ## Overview and Origin
 
